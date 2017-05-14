@@ -926,6 +926,10 @@
     margin-right: 10px; }
     .menu__item--last {
       margin-right: 0; }
+    .menu__item--active {
+      text-decoration: underline;
+      text-decoration-style: dotted;
+      text-decoration-color: #C2B1AB; }
 
 body {
   margin: 0;
